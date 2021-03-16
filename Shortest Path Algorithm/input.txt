@@ -1,0 +1,17 @@
+Burronymede Tumbolia 120
+Yaxchilan Burronymede 25
+Yaxchilan Glazunkia 90
+Yaxchilan Bonampak 55
+Bonampak Finiguerra 20
+Bonampak Glazunkia 20
+Finiguerra Djinn 180
+Castrovalva Mestre 75
+Castrovalva Verbub 50
+Mestre Xantu 30
+Mestre Mau 30
+Mau Xantu 30
+Mestre Djinn 45
+Djinn Verbum 40
+Glazunkia Castrovalva 30
+Glazunkia Verbum 80
+
